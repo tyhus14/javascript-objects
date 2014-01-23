@@ -1,0 +1,1 @@
+var Billy={legs:2,ears:2,hobbies:["fighting","drinking","fishing"],blackeye:!1,punches:function(a){return a.blackeye=!0,"Billy punched!"}},Johnny={legs:2,ears:2,hobbies:["singing","painting","running"],blackeye:!1},Shane={legs:2,ears:2,hobbies:["swimming","eating","golfing"],blackeye:!1};
